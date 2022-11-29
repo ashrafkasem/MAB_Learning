@@ -1,0 +1,10 @@
+/notebooks/
+/notebooks/*
+*.tsv
+.Rproj.user
+*.rds
+vpml_activate.txt
+*.Rhistory
+/venv
+/data
+/.idea/
